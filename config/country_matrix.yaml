@@ -1,0 +1,22 @@
+matrix:
+  - { country: "Spain", region: "R040", lifnr: 512068 }
+  - { country: "Portugal", region: "R041", lifnr: 512068 }
+  - { country: "Italy", region: "R042", lifnr: 512068 }
+  - { country: "Belgium", region: "R012", lifnr: 512068 }
+  - { country: "Belgium", region: "1200", lifnr: 999296 }
+  - { country: "Netherlands", region: "R018", lifnr: 512068 }
+  - { country: "Poland", region: "R026", lifnr: 999299 }
+  - { country: "United Kingdom", region: "R0E5", lifnr: 512068 }
+  - { country: "Ireland", region: "R0E5", lifnr: 512068 }
+  - { country: "Germany", region: "R033", lifnr: 512068 }
+  - { country: "Austria", region: "R010", lifnr: 512068 }
+  - { country: "Switzerland", region: "R011", lifnr: 512068 }
+  - { country: "France", region: "R043", lifnr: 512068 }
+  - { country: "Finland", region: "R019", lifnr: 512068 }
+  - { country: "Sweden", region: "R022", lifnr: 512068 }
+  - { country: "Denmark", region: "R023", lifnr: 512068 }
+  - { country: "Norway", region: "R024", lifnr: 512068 }
+  - { country: "Romania", region: "R039", lifnr: 512068 }
+  - { country: "Czech Republic", region: "R044", lifnr: 512068 }
+  - { country: "Slovakia", region: "R048", lifnr: 512068 }
+  - { country: "Hungary", region: "R027", lifnr: 512068 }

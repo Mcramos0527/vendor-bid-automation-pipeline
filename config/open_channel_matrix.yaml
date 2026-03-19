@@ -1,0 +1,6 @@
+matrix:
+  - { region: "5599", lifnr: 512068 }
+  - { region: "1218", lifnr: 999296 }
+  - { region: "4200", lifnr: 999299 }
+  - { region: "2600", lifnr: 999299 }
+  - { region: "4041", lifnr: 999296 }

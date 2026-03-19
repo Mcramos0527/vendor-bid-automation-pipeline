@@ -1,0 +1,5 @@
+active_statuses:
+  - "DPA Open - Created In SAP"
+  - "DPA Open - Update Created In SAP"
+schedule_times: ["05:30", "17:30"]
+archive_base: "./archive"
