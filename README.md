@@ -45,13 +45,13 @@ Upload via SFTP → Archive + Audit Log
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│              Email Processor                             │
-│  Monitor mailbox → Download attachment → Filter status   │
+│              Email Processor                            │
+│  Monitor mailbox → Download attachment → Filter status  │
 └──────────────────────┬──────────────────────────────────┘
                        │
                        ▼
 ┌─────────────────────────────────────────────────────────┐
-│              Data Transformer                            │
+│              Data Transformer                           │
 │  ┌──────────────┐ ┌──────────────┐ ┌────────────────┐   │
 │  │ Status       │ │ Customer     │ │ Region/Entity  │   │
 │  │ Filter       │ │ Classifier   │ │ Mapper         │   │
@@ -60,7 +60,7 @@ Upload via SFTP → Archive + Audit Log
                        │
                        ▼
 ┌─────────────────────────────────────────────────────────┐
-│              CSV Generator                               │
+│              CSV Generator                              │
 │  38-column ERP format → Split by REGIO+LIFNR → Name     │
 └──────────────┬───────────────────┬──────────────────────┘
                │                   │
